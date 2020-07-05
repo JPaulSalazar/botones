@@ -1,0 +1,82 @@
+h1{
+    color: greenyellow;
+}
+
+.boton1 {
+font-size: 8px;
+margin: 10PX auto;
+padding: 5px 40px; 
+background-color: black;
+display: block;
+color: white;
+text-align: center;
+}
+.boton1:hover{
+    font-size: 8px;
+    margin: 10px auto;
+    padding: 5px 40px; 
+    background-color: white;
+    display: block;
+    color:black;
+    text-align: center;
+    border: 3px solid black;
+}
+.boton2 {
+    font-size: 11px;
+    margin: 10px auto;
+    padding: 10px 60px; 
+    background-color:white;
+    display: block;
+    color:black;
+    text-align: center;
+    border: 3px solid black;
+}
+.boton2:hover {
+    font-size: 11px;
+    margin: 10px auto;
+    padding: 10px 60px; 
+    background-color:black;
+    display: block;
+    color:white;
+    text-align: center;
+}
+.boton3 {
+    font-size: 18px;
+    margin: 10px auto;
+    padding: 15px 70px; 
+    background-color:whitesmoke;
+    display: block;
+    color:black;
+    text-align: center;
+    border:none;
+}
+.boton3:hover {
+    font-size: 18px;
+    margin: 10px auto;
+    padding: 15px 70px; 
+    background-color:darkslategray;
+    display: block;
+    color:white;
+    text-align: center;
+    border:none;
+}
+.boton4 {
+    font-size: 23px;
+    margin: 10px auto;
+    padding: 20px 80px; 
+    background-color:dodgerblue;
+    display: block;
+    color:black;
+    text-align: center;
+    border:none;
+}
+.boton4:hover {
+    font-size: 23px;
+    margin: 10px auto;
+    padding: 20px 80px; 
+    background-color:greenyellow;
+    display: block;
+    color:white;
+    text-align: center;
+    border:none;
+}
